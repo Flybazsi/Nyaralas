@@ -51,3 +51,14 @@ p {
     flex-wrap: wrap;
     gap: 20px;
 }
+
+.card {
+    width: calc(33.333% - 20px);
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+}
