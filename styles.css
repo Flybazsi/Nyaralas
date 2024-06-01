@@ -44,3 +44,10 @@ h2, h3 {
 p {
     line-height: 1.6;
 }
+
+.image-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
