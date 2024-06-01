@@ -158,4 +158,8 @@ footer {
 
 .animated-button1 .arr-1 {
     right: 16px;
-  }
+}
+
+.animated-button1 .arr-2 {
+    left: -25%;
+}
