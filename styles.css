@@ -205,3 +205,8 @@ footer {
 .animated-button1:hover svg {
     fill: #212121;
 }
+
+.animated-button1:active {
+    scale: 0.95;
+    box-shadow: 0 0 0 4px greenyellow;
+}
