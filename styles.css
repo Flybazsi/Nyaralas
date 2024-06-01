@@ -201,3 +201,7 @@ footer {
 .animated-button1:hover .text {
     transform: translateX(12px);
 }
+
+.animated-button1:hover svg {
+    fill: #212121;
+}
