@@ -189,3 +189,7 @@ footer {
     color: #212121;
     border-radius: 12px;
 }
+
+.animated-button1:hover .arr-1 {
+    right: -25%;
+  }
