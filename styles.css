@@ -120,3 +120,10 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+.highlight-list {
+    list-style: disc;
+    padding-left: 20px;
+    margin-top: 20px;
+
+}
