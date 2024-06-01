@@ -192,4 +192,8 @@ footer {
 
 .animated-button1:hover .arr-1 {
     right: -25%;
-  }
+}
+
+.animated-button1:hover .arr-2 {
+    left: 16px;
+}
