@@ -210,3 +210,9 @@ footer {
     scale: 0.95;
     box-shadow: 0 0 0 4px greenyellow;
 }
+
+.animated-button1:hover .circle {
+    width: 220px;
+    height: 220px;
+    opacity: 1;
+}
