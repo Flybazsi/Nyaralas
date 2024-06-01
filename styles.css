@@ -197,3 +197,7 @@ footer {
 .animated-button1:hover .arr-2 {
     left: 16px;
 }
+
+.animated-button1:hover .text {
+    transform: translateX(12px);
+}
