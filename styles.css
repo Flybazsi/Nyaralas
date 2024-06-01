@@ -9,3 +9,15 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+header {
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('Tengerpart\ fejléc.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 20px 0;
+    transition: background-image 0.5s ease;
+}
